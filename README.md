@@ -11,3 +11,11 @@ git commit
 git pull
 
 cccc
+
+
+
+
+# to make local package as python package  in requirements.txt file
+-e .
+
+then write pip install -r requirements.txt 
